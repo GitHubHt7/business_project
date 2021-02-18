@@ -1,2 +1,2 @@
 # business_project
-Ht7_Sincerity `s toBusiness Project
+Ht7_Sincerity `s toBusiness Project.
