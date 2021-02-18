@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2c268c29-eaf6-4a62-98d6-e08e69e64f99" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sincerity/BussinessProjectApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sincerity/configure/CommonProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sincerity/controller/WordController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sincerity/entity/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sincerity/entity/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sincerity/util/WordUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/personalPort.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sincerity/BussinessProjectApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/spring-configuration-metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sincerity/BussinessProjectApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sincerity/configure/CommonProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sincerity/controller/WordController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sincerity/entity/Company.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sincerity/entity/Member.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sincerity/util/WordUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/personalPort.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/sincerity/BussinessProjectApplicationTests.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Maven\local-repository" />
+        <option name="mavenHome" value="D:/Maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1oaj5zUcnsCPA3hKgKoeUYrdYXw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Company`s Project/itbeesoso" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="BussinessProjectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="bussiness_project" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sincerity.BussinessProjectApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c268c29-eaf6-4a62-98d6-e08e69e64f99" name="Default Changelist" comment="" />
+      <created>1613531415495</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613531415495</updated>
+      <workItem from="1613531422291" duration="702000" />
+      <workItem from="1613532954917" duration="3110000" />
+      <workItem from="1613536153601" duration="9392000" />
+      <workItem from="1613613640167" duration="7972000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="0" key="#Auto_Import" timestamp="1613621003222">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="533" y="0" key="#Auto_Import/0.0.1536.824@0.0.1536.824" timestamp="1613621003222" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1613628706566">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1613628706566" />
+    <state width="1156" height="512" key="GridCell.Tab.0.bottom" timestamp="1613632566269">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1156" height="512" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1613632566269" />
+    <state width="1156" height="512" key="GridCell.Tab.0.center" timestamp="1613632566269">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1156" height="512" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1613632566269" />
+    <state width="1156" height="512" key="GridCell.Tab.0.left" timestamp="1613632566269">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1156" height="512" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1613632566269" />
+    <state width="1156" height="512" key="GridCell.Tab.0.right" timestamp="1613632566269">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1156" height="512" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1613632566269" />
+    <state width="1156" height="512" key="GridCell.Tab.1.bottom" timestamp="1613632566269">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1156" height="512" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1613632566269" />
+    <state width="1156" height="512" key="GridCell.Tab.1.center" timestamp="1613632566269">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1156" height="512" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1613632566269" />
+    <state width="1156" height="512" key="GridCell.Tab.1.left" timestamp="1613632566269">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1156" height="512" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1613632566269" />
+    <state width="1156" height="512" key="GridCell.Tab.1.right" timestamp="1613632566269">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1156" height="512" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1613632566269" />
+    <state width="1156" height="512" key="GridCell.Tab.2.bottom" timestamp="1613632566270">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1156" height="512" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1613632566270" />
+    <state width="1156" height="512" key="GridCell.Tab.2.center" timestamp="1613632566269">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1156" height="512" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1613632566269" />
+    <state width="1156" height="512" key="GridCell.Tab.2.left" timestamp="1613632566269">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1156" height="512" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1613632566269" />
+    <state width="1156" height="512" key="GridCell.Tab.2.right" timestamp="1613632566270">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1156" height="512" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1613632566270" />
+    <state x="270" y="56" key="SettingsEditor" timestamp="1613628739915">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1613628739915" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1613538023448">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1613538023448" />
+  </component>
+</project>

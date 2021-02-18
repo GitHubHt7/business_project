@@ -1,0 +1,6 @@
+server:
+  port: 8081
+
+sincerity:
+  common:
+    wordTemplatePath: E:\Develop\Java\Ht7`s Project\business_project\src\main\resources\templates\personalPort.docx
